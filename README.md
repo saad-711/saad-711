@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif" alt="saad-hub" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3issam-hub&label=Profile%20views&color=0e75b6&style=flat" alt="saad-hub" /> </p>
-<script src="https://tryhackme.com/badge/1671096"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/saad711.png" alt="TryHackMe">
 
 - 🌱 I’m currently learning **CyberSecurity**
 
