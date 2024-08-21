@@ -15,4 +15,3 @@
 <a href="https://www.linkedin.com/in/saad-hammouch-319312211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="issam beniysa" height="30" width="40" /></a>
 <a href="https://www.instagram.com/newsaad711/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beniysa_issam" height="30" width="40" /></a>
 </p>
-<script src="https://tryhackme.com/badge/1671096"></script>
